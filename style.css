@@ -73,3 +73,208 @@ margin-top: 24px;
     
     
 }
+
+.second-design{
+    width: 1140px;
+height: 1395px;
+margin: 0 auto;
+margin-top: 20px;
+margin-bottom: 20px;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+}
+
+.question-ans{
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin-bottom: 40px;
+margin-top: 30px;
+}
+
+.question-ans h1{
+    width: 852px;
+height: 39px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+text-align: center;
+margin-top: 60px;
+}
+
+.question-ans p{
+    width: 852px;
+height: 52px;
+text-align: center;
+margin-top: 25px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+
+.first-imgbox{
+    width: 946px;
+height: 336px;
+border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin: 0 auto;
+margin-bottom: 40px;
+}
+
+
+
+.text1 h2{
+    width: 390px;
+height: 72px;
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 19px;
+font-weight: 700;
+}
+
+.text1 p{
+    width: 468px;
+height: 52px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+
+.text1 button{
+    width: 150px;
+height: 48px;
+margin-top: 20px;
+margin: 32px 0px;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 600;
+}
+
+.image1{
+
+width: 249.56px;
+height: 210.01px;
+left: 0.36%;
+right: -0.36%;
+top: 1.74%;
+bottom: -1.74%;
+}
+
+.second-imgbox{
+    width: 946px;
+height: 336px;
+margin: 0 auto;
+}
+
+.text2 h2{
+    width: 477px;
+height: 72px;
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 19px;
+font-weight: 700;
+}
+
+.text2 p{
+    width: 468px;
+height: 52px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+
+}
+
+.text2 button{
+    width: 150px;
+height: 48px;
+margin-top: 20px;
+margin: 32px 0px;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 600;
+}
+
+.second-imgbox{
+    width: 946px;
+height: 336px;
+border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin: 0 auto;
+margin-bottom: 40px;
+}
+
+.third-imgbox{
+    width: 946px;
+height: 336px;
+margin: 0 auto;
+}
+
+.text3 h2{
+    width: 477px;
+height: 72px;
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 19px;
+font-weight: 700;
+}
+
+.text3 p{
+    width: 468px;
+height: 52px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+
+}
+
+.text3 button{
+    width: 150px;
+height: 48px;
+margin-top: 20px;
+margin: 32px 0px;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 600;
+}
+
+.third-imgbox{
+    width: 946px;
+height: 336px;
+border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin: 0 auto;
+margin-bottom: 40px;
+}
